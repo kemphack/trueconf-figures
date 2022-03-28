@@ -1,7 +1,7 @@
 import { Triangle } from "../lib/figures";
 
 describe('Triangle', () => {
-  describe('Validation at constuction', () => {
+  describe('Validation at constructing', () => {
     test('negative sides', () => {
       expect(() => {
         new Triangle(-1, 10, 3);

@@ -1,7 +1,7 @@
 import { Circle } from '../lib/figures';
 
 describe('Circle', () => {
-  describe('Validation at constuction', () => {
+  describe('Validation at constructing', () => {
     test('negative numbers', () => {
       expect(() => {
         new Circle(-1);

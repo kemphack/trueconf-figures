@@ -1,3 +1,8 @@
+Installation:
+```
+npm install truconf-figures
+```
+
 Usage example:
 ```
 import { Triangle } from 'trueconf-figures';

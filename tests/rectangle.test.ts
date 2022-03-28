@@ -1,7 +1,7 @@
 import { Rectangle } from "../lib/figures";
 
 describe('Rectangle', () => {
-  describe('Validation at constuction', () => {
+  describe('Validation at constructing', () => {
     test('negative first side', () => {
       expect(() => {
         new Rectangle(-1, 10);

@@ -10,7 +10,6 @@ export default class Circle extends FigureBase {
         throw new TypeError('Radius must be positive!');
       }
     };
-
     super(figureValidator);
   }
 
