@@ -1,3 +1,5 @@
+To see the task look at github repository inside task.docx file.
+
 Installation:
 ```
 npm install truconf-figures
